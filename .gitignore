@@ -1,0 +1,12 @@
+node_modules/
+.pnpm-store/
+dist/
+.env
+.env.*
+!.env.example
+.sites-runtime/
+inspection/
+qa/screenshots/
+*.log
+.DS_Store
+

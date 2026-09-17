@@ -1,0 +1,45 @@
+/* Shared locked regional templates: category-wide dimensions, independent of region. */
+.landing-grid,.detail-grid{align-items:stretch}
+.niche,.item-card{display:flex;flex-direction:column;min-width:0}
+.niche-image,.item-image{flex:none}
+.niche-caption,.item-caption{flex:1}
+.niche-caption{display:flex;flex-direction:column;justify-content:center;min-height:150px;background:#3d2817}
+.niche-caption h2{margin-bottom:16px}
+.more-link{width:160px;flex:none;margin-top:auto}
+.niche-image{height:320px}
+.item-caption{background:#392514;display:flex;flex-direction:column;align-items:center;justify-content:flex-start;padding:17px 23px 22px}
+.item-caption h2{width:100%;flex:none}
+.item-caption p{width:100%;line-height:1.85}
+.places-card .item-image{height:250px}
+.arts-card .item-image{height:255px}
+.places-card .item-caption{min-height:205px}
+.arts-card .item-caption,.en .arts-card .item-caption{min-height:285px}
+.foods-card .item-image{aspect-ratio:1.16/1;border-radius:50%;height:auto}
+.foods-card .item-caption{min-height:235px;margin-top:-23px}
+.en .foods-card .item-caption{min-height:235px}
+.en .places-card .item-caption{min-height:205px}
+.foods-grid{gap:26px}
+.item-image img{object-position:50% 50%}
+.region-view:not(.asir) .regional-environment{inset:0 5% 0;filter:sepia(.2) saturate(.8);background-position:center;background-size:cover;mask-image:linear-gradient(90deg,transparent,#000 12%,#000 88%,transparent)}
+.region-view:not(.asir) .regional-environment:after{background:linear-gradient(180deg,rgba(32,17,8,.27),rgba(32,17,8,.08) 45%,rgba(32,17,8,.75))}
+@media(min-width:1500px){.niche-image{height:380px}.places-card .item-image{height:280px}.arts-card .item-image{height:285px}}
+@media(min-width:641px) and (max-width:1000px){
+ .niche-image{height:280px}.niche-caption{min-height:155px}
+ .item-caption{padding:17px 15px 21px}.item-caption p{font-size:16px;line-height:1.8}
+ .places-card .item-image{height:215px}.arts-card .item-image{height:235px}
+ .places-card .item-caption,.en .places-card .item-caption{min-height:255px}
+ .arts-card .item-caption,.en .arts-card .item-caption{min-height:375px}
+ .foods-card .item-caption,.en .foods-card .item-caption{min-height:310px}
+ .niche-caption h2{font-size:20px}.en .niche-caption h2{font-size:19px}
+}
+@media(max-width:640px){
+ .niche-image{height:325px}.niche-caption{min-height:150px}
+ .item-caption{padding:18px 22px 23px}
+ .places-card .item-image{height:245px}.arts-card .item-image{height:270px}
+ .places-card .item-caption,.en .places-card .item-caption{min-height:210px}
+ .en .places-card .item-caption{min-height:225px}
+ .arts-card .item-caption,.en .arts-card .item-caption{min-height:315px}
+ .foods-card .item-caption,.en .foods-card .item-caption{min-height:250px;margin-top:-23px}
+ .foods-card .item-image{width:100%;max-width:none}
+ .region-view:not(.asir) .regional-environment{inset:0;mask-image:none}
+}

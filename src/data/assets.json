@@ -1,0 +1,339 @@
+{
+  "riyadh-places-1": {
+    "src": "/assets/riyadh-places-1.webp",
+    "source": "https://saudipedia.com/حي-الطريف",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-places-2": {
+    "src": "/assets/riyadh-places-2.webp",
+    "source": "https://www.pif.gov.sa/ar/our-investments/giga-projects/roshn/roshn-front/",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-places-3": {
+    "src": "/assets/riyadh-places-3.webp",
+    "source": "https://saudipedia.com/قصر-المصمك",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "asir-places-1": {
+    "src": "/assets/asir-places-1.webp",
+    "source": "https://saudipedia.com/قرية-رُجال-التراثية",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "asir-places-2": {
+    "src": "/assets/asir-places-2.webp",
+    "source": "https://saudipedia.com/قرية-المفتاحة",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "asir-places-3": {
+    "src": "/assets/asir-places-3.webp",
+    "source": "https://saudipedia.com/جبال-السودة",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "makkah-places-1": {
+    "src": "/assets/makkah-places-1-repair.webp",
+    "source": "https://www.visitsaudi.com/ar/jeddah/attractions/summer-night-adventures-in-al-balad",
+    "imageUrl": "https://www.visitsaudi.com/images/jeddah-homes-albalad.2e16d0ba.fill-1920x1080.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "makkah-places-2": {
+    "src": "/assets/makkah-places-2.webp",
+    "source": "https://www.spa.gov.sa/N2615031",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "makkah-places-3": {
+    "src": "/assets/makkah-places-3.webp",
+    "source": "https://saudipedia.com/معرض-عمارة-الحرمين-الشريفين",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "qassim-places-2": {
+    "src": "/assets/qassim-places-2-repair.webp",
+    "source": "https://www.visitsaudi.com/ar/qassim/attractions/asib-avenue",
+    "imageUrl": "https://www.visitsaudi.com/images/asib-avenue.2e16d0ba.fill-1920x1080.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-places-3": {
+    "src": "/assets/qassim-places-3.webp",
+    "source": "https://www.alqassim.gov.sa/QassimTourism/DestinationDetails/30",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-arts-1": {
+    "src": "/assets/riyadh-arts-1-repair.webp",
+    "source": "https://www.spa.gov.sa/N2556560",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202604/UxJgSz2YMqluUjwUTlFiqPOPL10OYgcyBMGOOf67.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "riyadh-arts-2": {
+    "src": "/assets/riyadh-arts-2.webp",
+    "source": "https://saudipedia.com/السامري",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-arts-3": {
+    "src": "/assets/riyadh-arts-3-repair.webp",
+    "source": "https://www.spa.gov.sa/N2556560",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202604/GKgeQoa1pTvyXTJRVm9urpuCbRbnQznkG1btcByd.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "asir-arts-1": {
+    "src": "/assets/asir-arts-1.webp",
+    "source": "https://saudipedia.com/العرضة-الجنوبية",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "asir-arts-2": {
+    "src": "/assets/asir-arts-2.webp",
+    "source": "https://saudipedia.com/الخطوة",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "asir-arts-3": {
+    "src": "/assets/asir-arts-3-repair.webp",
+    "source": "https://spa.gov.sa/N2142610",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202407/k8U7uQYIsisBM8SInl8ZKqRK3qqmg4xNHWHWUaaV.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "makkah-arts-1": {
+    "src": "/assets/makkah-arts-1.webp",
+    "source": "https://www.spa.gov.sa/w326638",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "makkah-arts-2": {
+    "src": "/assets/makkah-arts-2.webp",
+    "source": "https://www.spa.gov.sa/1860265",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "makkah-arts-3": {
+    "src": "/assets/makkah-arts-3-repair.webp",
+    "source": "https://www.spa.gov.sa/N2489526",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202601/zW5TBm1USnXwhTWggR8jwaqeiNwNi0LHCnWNNGnk.jpg",
+    "type": "photograph",
+    "position": "50% 68%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-arts-1": {
+    "src": "/assets/qassim-samri-repair.webp",
+    "source": "https://www.alhadath.net/2022/01/27/شباب-سعوديون-يحرسون-تراث-منطقة-عنيزة-منذ-5-عقود",
+    "type": "photograph",
+    "position": "50% 60%",
+    "rights": "Al Arabiya / Al Hadath; source attribution, reuse license not specified."
+  },
+  "qassim-arts-2": {
+    "src": "/assets/qassim-arts-2-repair.webp",
+    "source": "https://www.spa.gov.sa/w813128",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/201812/d96c9a39e5c1a96f0a806de4c37a6c33.jpeg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-arts-3": {
+    "src": "/assets/qassim-arts-3.webp",
+    "source": "https://www.spa.gov.sa/w608851",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-foods-1": {
+    "src": "/assets/riyadh-foods-1.webp",
+    "source": "https://saudipedia.com/الكبسة-السعودية",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "riyadh-foods-2": {
+    "src": "/assets/riyadh-foods-2-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "riyadh-foods-3": {
+    "src": "/assets/riyadh-foods-3.webp",
+    "source": "https://saudipedia.com/الجريش",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph",
+    "position": "53% 54%"
+  },
+  "makkah-foods-1": {
+    "src": "/assets/makkah-foods-1-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "makkah-foods-2": {
+    "src": "/assets/makkah-foods-2.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "asir-foods-1": {
+    "src": "/assets/asir-foods-1.webp",
+    "source": "https://saudipedia.com/العريكة",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph",
+    "position": "38% 50%"
+  },
+  "asir-foods-3": {
+    "src": "/assets/asir-foods-3.webp",
+    "source": "https://saudipedia.com/العصيدة",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "qassim-foods-1": {
+    "src": "/assets/qassim-foods-1.webp",
+    "source": "https://saudipedia.com/القرصان",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "qassim-foods-2": {
+    "src": "/assets/qassim-foods-2.webp",
+    "source": "https://saudipedia.com/المطازيز",
+    "rights": "Source attribution required; reuse license not specified by source.",
+    "type": "photograph"
+  },
+  "qassim-foods-3": {
+    "src": "/assets/qassim-foods-3-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "makkah-foods-3": {
+    "src": "/assets/makkah-foods-3.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "asir-foods-2": {
+    "src": "/assets/asir-foods-2.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "riyadh-landing-foods": {
+    "src": "/assets/riyadh-landing-foods-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "makkah-landing-foods": {
+    "src": "/assets/makkah-landing-foods-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "asir-landing-foods": {
+    "src": "/assets/asir-landing-foods-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "qassim-landing-foods": {
+    "src": "/assets/qassim-landing-foods-repair.webp",
+    "source": "OpenAI built-in imagegen; docs/generated-assets.md",
+    "type": "generated-illustration"
+  },
+  "riyadh-background": {
+    "src": "/assets/riyadh-background-repair.webp",
+    "source": "https://saudipedia.com/مدينة-الرياض",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/8/2/8/2/5542828-1-ara-SA/18cec7c82b8f-94104.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "makkah-background": {
+    "src": "/assets/makkah-background-repair.webp",
+    "source": "https://saudipedia.com/مدينة-مكة-المكرمة",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/3/5/0/1/5861053-1-ara-SA/e101ec94e0fc-65574.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-background": {
+    "src": "/assets/qassim-background-repair.webp",
+    "source": "https://www.visitsaudi.com/ar/qassim/attractions/asib-avenue",
+    "imageUrl": "https://www.visitsaudi.com/images/alqassim.2e16d0ba.fill-1320x674.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "riyadh-landing-places": {
+    "src": "/assets/riyadh-landing-places-repair.webp",
+    "source": "https://saudipedia.com/حي-البجيري",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/4/5/1/0/4710154-1-ara-SA/b2e29f91227e-53692.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "makkah-landing-places": {
+    "src": "/assets/makkah-landing-places-repair.webp",
+    "source": "https://saudipedia.com/جبل-النور",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/4/8/8/7/4577884-1-ara-SA/5d2ae37bf22e-59376.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-landing-places": {
+    "src": "/assets/qassim-landing-places-repair.webp",
+    "source": "https://saudipedia.com/سوق-المسوكف-الشعبي",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/8/6/8/2/7212868-1-ara-SA/e3baed71f317-64798.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "asir-landing-places": {
+    "src": "/assets/asir-landing-places-repair.webp",
+    "source": "https://saudipedia.com/مدينة-أبها",
+    "imageUrl": "https://saudipedia.com/var/site/storage/images/0/8/6/0/5510680-1-ara-SA/47b4d16ebebd-64679.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "riyadh-landing-arts": {
+    "src": "/assets/riyadh-landing-arts-repair.webp",
+    "source": "https://www.spa.gov.sa/N2556560",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202604/v0uF3ItoGlIqJRARAyBdwcLQEJH7qtVUxzH4DYvU.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "makkah-landing-arts": {
+    "src": "/assets/makkah-landing-arts-repair.webp",
+    "source": "https://www.spa.gov.sa/N2489526",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202601/u2iUn5GInKqxp7Gr4lHZsUzUvF9ADKiLSpyb2eep.jpg",
+    "type": "photograph",
+    "position": "50% 55%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "asir-landing-arts": {
+    "src": "/assets/asir-landing-arts-repair.webp",
+    "source": "https://spa.gov.sa/N2142610",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/202407/YkoF6WNVS7K1Tdr5bJWH1UkBTi4ieEj86sgv3B4S.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-landing-arts": {
+    "src": "/assets/qassim-landing-arts-repair.webp",
+    "source": "https://www.spa.gov.sa/w608851",
+    "imageUrl": "https://portalcdn.spa.gov.sa/backend/original/201802/0e68669512260402137c0aec800213d6.jpeg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  },
+  "qassim-places-1": {
+    "src": "/assets/qassim-places-1-repair.webp",
+    "source": "https://www.arabtrvl.com/vb/t53724-2.html",
+    "imageUrl": "https://www.arabtrvl.com/up/uploads/arabtrvl169274008215531.jpg",
+    "type": "photograph",
+    "position": "50% 50%",
+    "rights": "Source attribution required; reuse license not specified by source."
+  }
+}

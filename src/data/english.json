@@ -1,0 +1,70 @@
+{
+  "riyadh": {
+    "foods": [
+      {"name":"Kabsa","description":"Onion and meat or chicken are browned, then spices, tomatoes and water are added. Once cooked, rice is added and left to absorb the broth."},
+      {"name":"Qursan","description":"Thin sheets of wheat dough are baked, then broken up and mixed with meat and vegetable broth and left to absorb the flavour."},
+      {"name":"Jareesh","description":"Cracked wheat is soaked, then cooked with laban or water, onion and spices until creamy."}
+    ],
+    "arts": [
+      {"name":"Najdi Ardah","description":"One of the best-known folk arts in Riyadh Region, performed collectively with drums and recited poetry at national and social occasions and celebrations."},
+      {"name":"Samri","description":"A traditional singing art known in Riyadh Region, based on drum rhythms and the recitation of poetry and chants, performed at occasions and celebrations."},
+      {"name":"Nabati Poetry","description":"One of the prominent forms of folk literature in Riyadh Region, written in the local dialect and addressing topics such as pride, wisdom, description and occasions. It is an important part of the region’s cultural heritage."}
+    ],
+    "places": [
+      {"name":"Historic Diriyah","description":"A heritage area associated with the history of the First Saudi State."},
+      {"name":"ROSHN Front","description":"A modern destination with restaurants, shops and event spaces."},
+      {"name":"Al Masmak Palace","description":"A prominent historic landmark in the city of Riyadh."}
+    ]
+  },
+  "makkah": {
+    "foods": [
+      {"name":"Saleeg","description":"Rice is cooked in a milk or laban broth until soft, then ghee is added and it is served with meat or chicken."},
+      {"name":"Mantu","description":"Thin dough is filled with minced meat, onion and spices, then steamed."},
+      {"name":"Maasoub","description":"Made from crumbled bread or dough mixed with banana, cream and honey. Ghee may also be added."}
+    ],
+    "arts": [
+      {"name":"Hijazi Mizmar","description":"One of the best-known folk arts in Makkah, performed at weddings and occasions with drums, sticks and opposing rows. It is inscribed on UNESCO’s intangible cultural heritage list."},
+      {"name":"Majroor","description":"A traditional art known in Makkah and Madinah, based on poetic chants and collective rhythm."},
+      {"name":"Maritime Chants","description":"A folk art from the western region that spread through Makkah and its surrounding areas."}
+    ],
+    "places": [
+      {"name":"Historic Jeddah (Al Balad)","description":"A historic area with heritage houses, markets and passageways."},
+      {"name":"Holy Qur’an Museum","description":"A museum dedicated to presenting the history, sciences and manuscripts of the Holy Qur’an."},
+      {"name":"Exhibition of the Architecture of the Two Holy Mosques","description":"An exhibition displaying models and artefacts related to the architecture of the Two Holy Mosques."}
+    ]
+  },
+  "asir": {
+    "foods": [
+      {"name":"Areekah","description":"Prepared by mixing whole-wheat flour with water and salt and cooking it, then breaking it up and adding ghee, honey and cream as desired."},
+      {"name":"Daghabees","description":"Small pieces of dough are made from flour, water and salt, then cooked in meat or chicken broth until done and served with the broth."},
+      {"name":"Aseedah","description":"Flour is gradually added to boiling water while stirring continuously until firm, then served with ghee and honey or broth."}
+    ],
+    "arts": [
+      {"name":"Ardah","description":"Ardah: A well-known folk art in Asir, performed collectively with rhythms and drums at occasions and celebrations, reflecting participation and pride in heritage."},
+      {"name":"Southern Khatwah","description":"Southern Khatwah: A folk art in Asir Region, performed with collective movements and distinctive traditional rhythms at occasions and heritage celebrations."},
+      {"name":"Traditional Chants","description":"Traditional Chants: Inherited traditional songs and chants in Asir Region, sung collectively at occasions and celebrations, expressing local customs and traditions."}
+    ],
+    "places": [
+      {"name":"Rijal Almaa Village","description":"A heritage village known for its colourful stone houses and architectural history."},
+      {"name":"Al Muftaha Village","description":"An artistic and cultural village in Abha with facilities for arts and crafts."},
+      {"name":"Al Soudah Mountains","description":"A natural mountain destination with viewpoints and recreational experiences."}
+    ]
+  },
+  "qassim": {
+    "foods": [
+      {"name":"Qursan","description":"Wheat sheets are baked, then broken up and mixed with meat and vegetable broth."},
+      {"name":"Matazeez","description":"Wheat dough is cut into small circles and cooked in meat and vegetable broth."},
+      {"name":"Kleija","description":"Sweetened dough is filled with a mixture of dates or sugar, cardamom and spices, then shaped and baked."}
+    ],
+    "arts": [
+      {"name":"Samri","description":"One of the well-known folk arts in Qassim Region, performed collectively to drum rhythms with traditional chants and poetry at occasions and celebrations."},
+      {"name":"Traditional Chants","description":"Inherited traditional songs and chants in Qassim Region, sung collectively at occasions and celebrations, reflecting local customs and traditions."},
+      {"name":"Traditional Folklore","description":"A collection of heritage arts, customs and traditions in Qassim Region, including dances, chants and traditional dress, presented at heritage occasions and events."}
+    ],
+    "places": [
+      {"name":"Al Fawzan Reserve for Gazelles, Arabian Oryx and Ostriches","description":"A reserve dedicated to wildlife and the conservation of local animals."},
+      {"name":"Asseeb Avenue","description":"A destination for events, walking and cultural experiences."},
+      {"name":"Al Uqailat Museum","description":"A museum documenting the history, journeys and trade of the Uqailat."}
+    ]
+  }
+}
